@@ -1,1 +1,1 @@
-# NetworkAdmin
+# 어드민 코드
